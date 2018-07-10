@@ -2,6 +2,7 @@ def first_steps
 loop do
   puts "step to the left."
   puts "step to the right."
+break  
 end  
   # Write a loop that outputs "Right foot back", "Left foot back",
   # "Right foot back", and "Stop", with sleep after each
