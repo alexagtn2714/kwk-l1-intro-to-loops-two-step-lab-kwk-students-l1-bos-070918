@@ -1,12 +1,12 @@
 x = 0 
 def first_steps
-loop do
   while x < 6
   puts "step to the left."
   puts "step to the right."
   x + = 1 
 break  
 end  
+
 
  puts "now jump up and down!"
   # Write a loop that outputs "Right foot back", "Left foot back",
