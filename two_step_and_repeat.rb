@@ -3,7 +3,7 @@ def first_steps
   while x < 6
   puts "step to the left."
   puts "step to the right."
-  x + = 1 
+  x+=1
 break  
 end  
 
