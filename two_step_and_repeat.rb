@@ -1,5 +1,4 @@
 x = 0 
-def first_steps
   while x < 6
   puts "step to the left."
   puts "step to the right."
