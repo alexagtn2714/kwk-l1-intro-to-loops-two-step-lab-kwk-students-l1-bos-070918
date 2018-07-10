@@ -1,5 +1,7 @@
+x = 0 
 def first_steps
 loop do
+  x = x + 1 
   puts "step to the left."
   puts "step to the right."
 break  
